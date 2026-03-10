@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditya-yadav08&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=aditya-yadav08&style=for-the-badge&base=123&abbreviated=true)](https://nice-readme.vercel.app/views-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
